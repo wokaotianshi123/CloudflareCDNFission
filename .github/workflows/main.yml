@@ -38,9 +38,10 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install opencv-python  # 根据需要安装opencv-python
+          pip install lxml  # 根据需要安装lxml
           pip install requests      # 安装requests库
-
+          pip install fake_useragent      # 安装requests库
+          
       - name: Run Fission.py
         run: python ${{ github.workspace }}/Fission.py
 
