@@ -1,0 +1,138 @@
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find www.66tl.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	gtqysw.com
+Address: 23.224.110.167
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.lxdytt.net
+Address: 23.224.145.140
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	vcd.la
+Address: 38.55.48.194
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	czyinyao.com
+Address: 134.122.181.139
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.lyzdzy.com
+Address: 162.209.149.30
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.nangua55.com
+Address: 82.192.82.226
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	m.lxdytt.net
+Address: 23.224.145.140
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.zzztch.com
+Address: 162.209.149.30
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find bdx100.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.luwangyangrong.com
+Address: 64.91.248.15
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	menatplay.com
+Address: 104.26.14.72
+Name:	menatplay.com
+Address: 172.67.73.26
+Name:	menatplay.com
+Address: 104.26.15.72
+Name:	menatplay.com
+Address: 2606:4700:20::ac43:491a
+Name:	menatplay.com
+Address: 2606:4700:20::681a:e48
+Name:	menatplay.com
+Address: 2606:4700:20::681a:f48
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+www.pkdytt.com	canonical name = pkdytt.com.
+Name:	pkdytt.com
+Address: 23.225.40.213
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.longzemy.com
+Address: 23.224.186.235
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.bgdvd.cc
+Address: 23.224.179.30
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.gtqysw.com
+Address: 23.224.110.167
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.dzy66666.com
+Address: 127.0.0.127
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find m.gtqysw.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.yncareer.com
+Address: 162.209.149.30
+
