@@ -1,0 +1,58 @@
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.nmgtzb.org.cn
+Address: 38.12.33.140
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.ayzjj.cn
+Address: 107.148.162.9
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	65bao.com
+Address: 172.64.80.1
+Name:	65bao.com
+Address: 2606:4700:3037::6815:3c46
+Name:	65bao.com
+Address: 2606:4700:3031::ac43:c163
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	4tube.com
+Address: 104.20.224.111
+Name:	4tube.com
+Address: 104.20.223.111
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.15dy.com
+Address: 172.67.140.46
+Name:	www.15dy.com
+Address: 104.21.49.10
+Name:	www.15dy.com
+Address: 2606:4700:3033::ac43:8c2e
+Name:	www.15dy.com
+Address: 2606:4700:3031::6815:310a
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+www.hnyhy.com	canonical name = traff-1.hugedomains.com.
+traff-1.hugedomains.com	canonical name = hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.
+Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
+Address: 54.209.32.212
+Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
+Address: 52.71.57.184
+
