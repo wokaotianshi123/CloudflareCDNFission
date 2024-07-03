@@ -14,7 +14,7 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
 # 文件配置
-ips = "Fission_ip.txt"
+ips = "./fissip/Fission_ip.txt"
 domains = "Fission_domain.txt"
 dns_result = "dns_result.txt"
 
