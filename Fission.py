@@ -113,9 +113,16 @@ def fetch_domains_concurrently(ip_addresses):
 # DNS查询函数
 def dns_lookup(domain):
     print(f"Performing DNS lookup for {domain}...")
+    start_time = time.time()  # 记录开始时间
     result = subprocess.run(["nslookup", domain], capture_output=True, text=True)
-    return domain, result.stdout
+    end_time = time.time()  # 记录结束时间
+    response_time = end_time - start_time  # 计算响应时间
 
+    # 检查响应时间是否低于200ms
+    if response_time < 0.2:
+        return domain, result.stdout
+    else:
+        return None, None
 # 通过域名列表获取绑定过的所有ip
 def perform_dns_lookups(domain_filename, result_filename, unique_ipv4_filename):
     try:
@@ -163,36 +170,21 @@ def perform_dns_lookups(domain_filename, result_filename, unique_ipv4_filename):
 
 # 主函数
 def main():
-    # 判断是否存在IP文件
+    # 判断是否存在IP文件和域名文件
     if not os.path.exists(ips):
-        with open(ips, 'w') as file:
-            file.write("")
-    
-    # 判断是否存在域名文件
+        open(ips, 'w').close()
     if not os.path.exists(domains):
-        with open(domains, 'w') as file:
-            file.write("")
+        open(domains, 'w').close()
 
     # IP反查域名
-    with open(ips, 'r') as ips_txt:
-        ip_list = [ip.strip() for ip in ips_txt]
-
+    ip_list = [ip.strip() for ip in open(ips, 'r')]
     domain_list = fetch_domains_concurrently(ip_list)
-    print("域名列表为")
-    print(domain_list)
-    with open("Fission_domain.txt", "r") as file:
-        exist_list = [domain.strip() for domain in file]
-
-    domain_list = list(set(domain_list + exist_list))
-
-    with open("Fission_domain.txt", "w") as output:
+    with open(domains, 'w') as output:
         for domain in domain_list:
-            output.write(domain + "\n")
-    print("IP -> 域名 已完成")
+            output.write(domain + '\n')
 
-    # 域名解析IP
+    # 域名解析IP，并过滤响应时间
     perform_dns_lookups(domains, dns_result, ips)
-    print("域名 -> IP 已完成")
 
 # 程序入口
 if __name__ == '__main__':
