@@ -125,19 +125,19 @@ def dns_lookup(domain):
     else:
         return None, None
 # 并发执行DNS查询
-def perform_dns_lookups(domains):
-    domains_with_response_time = []
+def perform_dns_lookups(domain_list):
+    domains_with_fast_response = []  # 存储响应时间低于200ms的域名
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers_dns) as executor:
-        future_to_domain = {executor.submit(dns_lookup, domain): domain for domain in domains}
+        future_to_domain = {executor.submit(dns_lookup, domain): domain for domain in domain_list}
         for future in concurrent.futures.as_completed(future_to_domain):
-            domain, stdout = future.result()
-            if domain:
-                domains_with_response_time.append((domain, stdout))
+            domain, _ = future.result()
+            if domain:  # 如果域名有效
+                domains_with_fast_response.append(domain)
 
-    # 写入有效域名及其响应时间到Fission_domain.txt
-    with open(domains, 'w') as output_file:
-        for domain, _ in domains_with_response_time:
+    # 将筛选后的域名写入Fission_domain.txt
+    with open("Fission_domain.txt", 'w') as output_file:
+        for domain in domains_with_fast_response:
             output_file.write(domain + '\n')
 
 # 主函数
@@ -156,14 +156,35 @@ def main():
         ip_list = [ip.strip() for ip in ips_txt]
 
     domain_list = fetch_domains_concurrently(ip_list)
-    with open("Fission_domain.txt", "w") as output:
-        for domain in domain_list:
-            output.write(domain + "\n")
 
-    # 域名解析IP，并过滤响应时间
-    perform_dns_lookups(domain_list)
+    # 将新获取的域名写入文件，并与已有域名合并
+    with open(domains, 'r+') as file:
+        exist_list = {domain.strip() for domain in file}
+        new_domains = [domain for domain in domain_list if domain not in exist_list]
+        file.seek(0)  # 移动到文件开头，准备写入
+        file.write('')  # 清空文件内容
+        file.write('\n'.join(exist_list | set(domain_list)))
+
+    # 执行DNS查询并筛选域名
+    perform_dns_lookups(new_domains)
 
     print("IP -> 域名 和 域名 -> IP (过滤响应时间) 已完成")
+
+# 并发执行DNS查询，并筛选响应时间低于200ms的域名
+def perform_dns_lookups(domain_list):
+    domains_with_fast_response = []  # 存储响应时间低于200ms的域名
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers_dns) as executor:
+        future_to_domain = {executor.submit(dns_lookup, domain): domain for domain in domain_list}
+        for future in concurrent.futures.as_completed(future_to_domain):
+            domain, _ = future.result()
+            if domain:  # 如果域名有效
+                domains_with_fast_response.append(domain)
+
+    # 将筛选后的域名写入Fission_domain.txt
+    with open("Fission_domain.txt", 'w') as output_file:
+        for domain in domains_with_fast_response:
+            output_file.write(domain + '\n')
 
 # 程序入口
 if __name__ == '__main__':
