@@ -123,68 +123,46 @@ def dns_lookup(domain):
         return domain, result.stdout
     else:
         return None, None
-# 通过域名列表获取绑定过的所有ip
-def perform_dns_lookups(domain_filename, result_filename, unique_ipv4_filename):
-    try:
-        # 读取域名列表
-        with open(domain_filename, 'r') as file:
-            domains = file.read().splitlines()
+# 并发执行DNS查询
+def perform_dns_lookups(domains):
+    domains_with_response_time = []
 
-        # 创建一个线程池并执行DNS查询
-        with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers_dns) as executor:
-            results = list(executor.map(dns_lookup, domains))
+    with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers_dns) as executor:
+        future_to_domain = {executor.submit(dns_lookup, domain): domain for domain in domains}
+        for future in concurrent.futures.as_completed(future_to_domain):
+            domain, stdout = future.result()
+            if domain:
+                domains_with_response_time.append((domain, stdout))
 
-        # 写入查询结果到文件
-        with open(result_filename, 'w') as output_file:
-            for domain, output in results:
-                output_file.write(output)
-
-        # 从结果文件中提取所有IPv4地址
-        ipv4_addresses = set()
-        for _, output in results:
-            ipv4_addresses.update(re.findall(r'\b(?:[0-9]{1,3}\.){3}[0-9]{1,3}\b', output))
-
-        with open(unique_ipv4_filename, 'r') as file:
-            exist_list = {ip.strip() for ip in file}
-
-        # 检查IP地址是否为公网IP
-        filtered_ipv4_addresses = set()
-        for ip in ipv4_addresses:
-            try:
-                ip_obj = ipaddress.ip_address(ip)
-                if ip_obj.is_global:
-                    filtered_ipv4_addresses.add(ip)
-            except ValueError:
-                # 忽略无效IP地址
-                continue
-        
-        filtered_ipv4_addresses.update(exist_list)
-
-        # 保存IPv4地址
-        with open(unique_ipv4_filename, 'w') as output_file:
-            for address in filtered_ipv4_addresses:
-                output_file.write(address + '\n')
-
-    except Exception as e:
-        print(f"Error performing DNS lookups: {e}")
+    # 写入有效域名及其响应时间到Fission_domain.txt
+    with open(domains, 'w') as output_file:
+        for domain, _ in domains_with_response_time:
+            output_file.write(domain + '\n')
 
 # 主函数
 def main():
     # 判断是否存在IP文件和域名文件
     if not os.path.exists(ips):
-        open(ips, 'w').close()
+        with open(ips, 'w') as file:
+            file.write("")
+
     if not os.path.exists(domains):
-        open(domains, 'w').close()
+        with open(domains, 'w') as file:
+            file.write("")
 
     # IP反查域名
-    ip_list = [ip.strip() for ip in open(ips, 'r')]
+    with open(ips, 'r') as ips_txt:
+        ip_list = [ip.strip() for ip in ips_txt]
+
     domain_list = fetch_domains_concurrently(ip_list)
-    with open(domains, 'w') as output:
+    with open("Fission_domain.txt", "w") as output:
         for domain in domain_list:
-            output.write(domain + '\n')
+            output.write(domain + "\n")
 
     # 域名解析IP，并过滤响应时间
-    perform_dns_lookups(domains, dns_result, ips)
+    perform_dns_lookups(domain_list)
+
+    print("IP -> 域名 和 域名 -> IP (过滤响应时间) 已完成")
 
 # 程序入口
 if __name__ == '__main__':
