@@ -120,7 +120,7 @@ def dns_lookup(domain):
     response_time = end_time - start_time  # 计算响应时间
 
     # 检查响应时间是否低于200ms
-    if response_time < 0.2:
+    if response_time < 0.5:
         return domain, result.stdout
     else:
         return None, None
