@@ -1,615 +1,3 @@
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.qchkj.com	canonical name = cf.zmdhc.com.
-Name:	cf.zmdhc.com
-Address: 172.67.6.23
-Name:	cf.zmdhc.com
-Address: 172.67.77.180
-Name:	cf.zmdhc.com
-Address: 172.67.95.98
-Name:	cf.zmdhc.com
-Address: 172.67.148.192
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.8x8x8.com	canonical name = traff-5.hugedomains.com.
-traff-5.hugedomains.com	canonical name = hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 34.205.242.146
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 54.161.222.85
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	91tulu.com
-Address: 172.67.140.46
-Name:	91tulu.com
-Address: 104.21.49.10
-Name:	91tulu.com
-Address: 2606:4700:3033::ac43:8c2e
-Name:	91tulu.com
-Address: 2606:4700:3031::6815:310a
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-91xxxx.com	canonical name = traff-4.hugedomains.com.
-traff-4.hugedomains.com	canonical name = hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 3.94.41.167
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 52.86.6.113
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.0mag.com	canonical name = traff-1.hugedomains.com.
-traff-1.hugedomains.com	canonical name = hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 54.209.32.212
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 52.71.57.184
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	southafrica.fastway.org
-Address: 104.21.49.10
-Name:	southafrica.fastway.org
-Address: 172.67.140.46
-Name:	southafrica.fastway.org
-Address: 2606:4700:3033::ac43:8c2e
-Name:	southafrica.fastway.org
-Address: 2606:4700:3031::6815:310a
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-*** Can't find 7811301.com: No answer
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	13maobk.com
-Address: 104.21.88.95
-Name:	13maobk.com
-Address: 172.67.175.214
-Name:	13maobk.com
-Address: 2606:4700:3030::ac43:afd6
-Name:	13maobk.com
-Address: 2606:4700:3035::6815:585f
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.1488tv.com	canonical name = traff-5.hugedomains.com.
-traff-5.hugedomains.com	canonical name = hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 34.205.242.146
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 54.161.222.85
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-httpwww.8xav.com	canonical name = traff-5.hugedomains.com.
-traff-5.hugedomains.com	canonical name = hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 34.205.242.146
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 54.161.222.85
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.585ttt.com	canonical name = traff-3.hugedomains.com.
-traff-3.hugedomains.com	canonical name = hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
-Address: 3.19.116.195
-Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
-Address: 3.18.7.81
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-** server can't find www.99qhmy.com: NXDOMAIN
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.www2011india.com
-Address: 156.224.24.108
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	tw.linovelib.com
-Address: 172.64.80.1
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.x8x8x8.com	canonical name = traff-5.hugedomains.com.
-traff-5.hugedomains.com	canonical name = hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 54.161.222.85
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 34.205.242.146
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.avavavav.com	canonical name = traff-2.hugedomains.com.
-traff-2.hugedomains.com	canonical name = hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com
-Address: 3.130.253.23
-Name:	hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com
-Address: 3.130.204.160
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-8x8x8.com	canonical name = traff-5.hugedomains.com.
-traff-5.hugedomains.com	canonical name = hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 34.205.242.146
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 54.161.222.85
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.haody.com	canonical name = traff-6.hugedomains.com.
-traff-6.hugedomains.com	canonical name = hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 18.119.154.66
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 3.140.13.188
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.57sao.com	canonical name = traff-6.hugedomains.com.
-traff-6.hugedomains.com	canonical name = hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 18.119.154.66
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 3.140.13.188
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.320hk.com	canonical name = traff-2.hugedomains.com.
-traff-2.hugedomains.com	canonical name = hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com
-Address: 3.130.253.23
-Name:	hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com
-Address: 3.130.204.160
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.k6080.com	canonical name = cdn.5206080.xyz.
-Name:	cdn.5206080.xyz
-Address: 1.1.1.1
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-my5525.com	canonical name = traff-6.hugedomains.com.
-traff-6.hugedomains.com	canonical name = hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 3.140.13.188
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 18.119.154.66
-
-;; communications error to 127.0.0.53#53: timed out
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.picacgz.cn
-Address: 156.232.161.98
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.ggbase.com	canonical name = traff-6.hugedomains.com.
-traff-6.hugedomains.com	canonical name = hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 3.140.13.188
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 18.119.154.66
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.39kan.com	canonical name = 39kan.com.cdn.cloudflare.net.
-Name:	39kan.com.cdn.cloudflare.net
-Address: 104.21.82.245
-Name:	39kan.com.cdn.cloudflare.net
-Address: 172.67.166.52
-Name:	39kan.com.cdn.cloudflare.net
-Address: 2606:4700:3030::ac43:a634
-Name:	39kan.com.cdn.cloudflare.net
-Address: 2606:4700:3030::6815:52f5
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.35kan.com	canonical name = 35kan.com.cdn.cloudflare.net.
-Name:	35kan.com.cdn.cloudflare.net
-Address: 172.67.175.240
-Name:	35kan.com.cdn.cloudflare.net
-Address: 104.21.72.58
-Name:	35kan.com.cdn.cloudflare.net
-Address: 2606:4700:3034::6815:483a
-Name:	35kan.com.cdn.cloudflare.net
-Address: 2606:4700:3034::ac43:aff0
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.welcometovideo.com	canonical name = traff-1.hugedomains.com.
-traff-1.hugedomains.com	canonical name = hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 52.71.57.184
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 54.209.32.212
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	tsdingxin.com
-Address: 134.122.181.146
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.google123.cc	canonical name = cdn.milukj.net.
-Name:	cdn.milukj.net
-Address: 156.224.27.102
-Name:	cdn.milukj.net
-Address: 156.224.27.248
-Name:	cdn.milukj.net
-Address: 198.44.185.81
-Name:	cdn.milukj.net
-Address: 198.44.185.92
-Name:	cdn.milukj.net
-Address: 198.44.185.116
-Name:	cdn.milukj.net
-Address: 198.44.187.153
-Name:	cdn.milukj.net
-Address: 198.44.187.175
-Name:	cdn.milukj.net
-Address: 198.44.187.198
-Name:	cdn.milukj.net
-Address: 154.29.148.67
-Name:	cdn.milukj.net
-Address: 154.204.181.244
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-4hu99.com	canonical name = traff-5.hugedomains.com.
-traff-5.hugedomains.com	canonical name = hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 34.205.242.146
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 54.161.222.85
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-3ayy.com	canonical name = cdn.5206080.xyz.
-Name:	cdn.5206080.xyz
-Address: 1.1.1.1
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.hnyhy.com	canonical name = traff-5.hugedomains.com.
-traff-5.hugedomains.com	canonical name = hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 54.161.222.85
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 34.205.242.146
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.218tv.com	canonical name = traff-3.hugedomains.com.
-traff-3.hugedomains.com	canonical name = hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
-Address: 3.19.116.195
-Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
-Address: 3.18.7.81
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.69hot.com	canonical name = traff-3.hugedomains.com.
-traff-3.hugedomains.com	canonical name = hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
-Address: 3.18.7.81
-Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
-Address: 3.19.116.195
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.lzhdsn.com
-Address: 104.17.144.75
-Name:	www.lzhdsn.com
-Address: 104.17.144.82
-Name:	www.lzhdsn.com
-Address: 104.18.38.18
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.my1977.com	canonical name = traff-3.hugedomains.com.
-traff-3.hugedomains.com	canonical name = hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
-Address: 3.19.116.195
-Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
-Address: 3.18.7.81
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.kan9197.com	canonical name = laoya.xxcname.com.
-Name:	laoya.xxcname.com
-Address: 112.121.163.83
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.xxxxmmmm.com	canonical name = traff-5.hugedomains.com.
-traff-5.hugedomains.com	canonical name = hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 54.161.222.85
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 34.205.242.146
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.haryananews.co
-Address: 103.224.212.210
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.15rq.com	canonical name = traff-4.hugedomains.com.
-traff-4.hugedomains.com	canonical name = hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 3.94.41.167
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 52.86.6.113
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	cdn-img.xzlsnm.com
-Address: 104.21.49.10
-Name:	cdn-img.xzlsnm.com
-Address: 172.67.140.46
-Name:	cdn-img.xzlsnm.com
-Address: 2606:4700:3033::ac43:8c2e
-Name:	cdn-img.xzlsnm.com
-Address: 2606:4700:3031::6815:310a
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.7v59.com	canonical name = traff-6.hugedomains.com.
-traff-6.hugedomains.com	canonical name = hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 18.119.154.66
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 3.140.13.188
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.javpark.com	canonical name = traff-3.hugedomains.com.
-traff-3.hugedomains.com	canonical name = hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
-Address: 3.18.7.81
-Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
-Address: 3.19.116.195
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.newmm.com	canonical name = traff-5.hugedomains.com.
-traff-5.hugedomains.com	canonical name = hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 54.161.222.85
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 34.205.242.146
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-** server can't find www.6xr.com: NXDOMAIN
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.381hk.com	canonical name = traff-6.hugedomains.com.
-traff-6.hugedomains.com	canonical name = hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 18.119.154.66
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 3.140.13.188
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.mmp23.com	canonical name = traff-1.hugedomains.com.
-traff-1.hugedomains.com	canonical name = hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 54.209.32.212
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 52.71.57.184
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.462hk.com	canonical name = traff-2.hugedomains.com.
-traff-2.hugedomains.com	canonical name = hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com
-Address: 3.130.204.160
-Name:	hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com
-Address: 3.130.253.23
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.aw45.com	canonical name = traff-4.hugedomains.com.
-traff-4.hugedomains.com	canonical name = hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 52.86.6.113
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 3.94.41.167
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.tlbbtl.top
-Address: 34.120.249.181
-Name:	www.tlbbtl.top
-Address: 34.149.24.8
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.511mj.com
-Address: 103.155.122.55
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-*** Can't find chandao2022.com: No answer
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-** server can't find 777.klcai888.com: NXDOMAIN
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.jingshuai888.com	canonical name = www.jsdrtzn.com.
-www.jsdrtzn.com	canonical name = cf.zmdhc.com.
-Name:	cf.zmdhc.com
-Address: 172.67.148.192
-Name:	cf.zmdhc.com
-Address: 172.67.6.23
-Name:	cf.zmdhc.com
-Address: 172.67.77.180
-Name:	cf.zmdhc.com
-Address: 172.67.95.98
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.ip163.com	canonical name = traff-1.hugedomains.com.
-traff-1.hugedomains.com	canonical name = hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 52.71.57.184
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 54.209.32.212
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.277cc.com	canonical name = traff-4.hugedomains.com.
-traff-4.hugedomains.com	canonical name = hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 3.94.41.167
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 52.86.6.113
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-235tv.com	canonical name = cf.qiyexxw.eu.org.cdn.cloudflare.net.
-Name:	cf.qiyexxw.eu.org.cdn.cloudflare.net
-Address: 172.67.196.195
-Name:	cf.qiyexxw.eu.org.cdn.cloudflare.net
-Address: 104.21.21.59
-Name:	cf.qiyexxw.eu.org.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:c4c3
-Name:	cf.qiyexxw.eu.org.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:153b
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.6080yy3.com	canonical name = cdn.5206080.xyz.
-Name:	cdn.5206080.xyz
-Address: 1.1.1.1
-
 ;; communications error to 127.0.0.53#53: timed out
 ;; communications error to 127.0.0.53#53: timed out
 ;; communications error to 127.0.0.53#53: timed out
@@ -619,1895 +7,66 @@ Address: 1.1.1.1
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
-Non-authoritative answer:
-www.avzou.com	canonical name = traff-1.hugedomains.com.
-traff-1.hugedomains.com	canonical name = hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 52.71.57.184
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 54.209.32.212
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-http.8x8x8.com	canonical name = traff-6.hugedomains.com.
-traff-6.hugedomains.com	canonical name = hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 18.119.154.66
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 3.140.13.188
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.tinghen.com	canonical name = www.tinghen.com.cdn.cloudflare.net.
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 172.67.172.249
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 104.21.30.140
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 2606:4700:3033::6815:1e8c
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 2606:4700:3035::ac43:acf9
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.5c5c5ccom.com	canonical name = traff-5.hugedomains.com.
-traff-5.hugedomains.com	canonical name = hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 34.205.242.146
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 54.161.222.85
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-39kan.com	canonical name = 39kan.com.cdn.cloudflare.net.
-Name:	39kan.com.cdn.cloudflare.net
-Address: 104.21.82.245
-Name:	39kan.com.cdn.cloudflare.net
-Address: 172.67.166.52
-Name:	39kan.com.cdn.cloudflare.net
-Address: 2606:4700:3030::6815:52f5
-Name:	39kan.com.cdn.cloudflare.net
-Address: 2606:4700:3030::ac43:a634
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	xyy6680.com
-Address: 185.139.7.229
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	bd666.cn
-Address: 104.21.49.10
-Name:	bd666.cn
-Address: 172.67.140.46
-Name:	bd666.cn
-Address: 2606:4700:3031::6815:310a
-Name:	bd666.cn
-Address: 2606:4700:3033::ac43:8c2e
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-6080yy3.com	canonical name = cdn.5206080.xyz.
-Name:	cdn.5206080.xyz
-Address: 1.1.1.1
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	baokanwang.com
-Address: 107.148.162.9
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-44base.com	canonical name = traff-4.hugedomains.com.
-traff-4.hugedomains.com	canonical name = hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 52.86.6.113
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 3.94.41.167
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.11txt.com	canonical name = www.11txt.com.cdn.cloudflare.net.
-Name:	www.11txt.com.cdn.cloudflare.net
-Address: 104.21.44.202
-Name:	www.11txt.com.cdn.cloudflare.net
-Address: 172.67.203.171
-Name:	www.11txt.com.cdn.cloudflare.net
-Address: 2606:4700:3035::ac43:cbab
-Name:	www.11txt.com.cdn.cloudflare.net
-Address: 2606:4700:3033::6815:2cca
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	pururin.to
-Address: 104.21.62.29
-Name:	pururin.to
-Address: 172.67.219.29
-Name:	pururin.to
-Address: 2606:4700:3034::6815:3e1d
-Name:	pururin.to
-Address: 2606:4700:3030::ac43:db1d
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.lyaw.com	canonical name = traff-5.hugedomains.com.
-traff-5.hugedomains.com	canonical name = hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 54.161.222.85
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 34.205.242.146
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-80yy3.com	canonical name = cdn.5206080.xyz.
-Name:	cdn.5206080.xyz
-Address: 1.1.1.1
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.sy790.com
-Address: 35.241.21.52
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.276hk.com	canonical name = traff-5.hugedomains.com.
-traff-5.hugedomains.com	canonical name = hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 34.205.242.146
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 54.161.222.85
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.gzcfmy.com	canonical name = cf.zmdhc.com.
-Name:	cf.zmdhc.com
-Address: 172.67.6.23
-Name:	cf.zmdhc.com
-Address: 172.67.77.180
-Name:	cf.zmdhc.com
-Address: 172.67.95.98
-Name:	cf.zmdhc.com
-Address: 172.67.148.192
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	15dy.com
-Address: 172.67.140.46
-Name:	15dy.com
-Address: 104.21.49.10
-Name:	15dy.com
-Address: 2606:4700:3031::6815:310a
-Name:	15dy.com
-Address: 2606:4700:3033::ac43:8c2e
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.5yese.com	canonical name = traff-2.hugedomains.com.
-traff-2.hugedomains.com	canonical name = hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com
-Address: 3.130.253.23
-Name:	hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com
-Address: 3.130.204.160
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.7v38.com	canonical name = traff-3.hugedomains.com.
-traff-3.hugedomains.com	canonical name = hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
-Address: 3.18.7.81
-Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
-Address: 3.19.116.195
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	bitren.org
-Address: 172.64.80.1
-Name:	bitren.org
-Address: 2606:4700:130:436c:6f75:6466:6c61:7265
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.3ayy.com	canonical name = cdn.5206080.xyz.
-Name:	cdn.5206080.xyz
-Address: 1.1.1.1
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-wwwbg.0dmm.com	canonical name = traff-6.hugedomains.com.
-traff-6.hugedomains.com	canonical name = hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 3.140.13.188
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 18.119.154.66
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-av143.com	canonical name = traff-5.hugedomains.com.
-traff-5.hugedomains.com	canonical name = hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 34.205.242.146
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 54.161.222.85
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-*** Can't find ao62nys850.top: No answer
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-javabus.com	canonical name = traff-5.hugedomains.com.
-traff-5.hugedomains.com	canonical name = hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 54.161.222.85
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 34.205.242.146
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-m.heidoujinfu.com	canonical name = heidoujinfu.com.cdn.cloudflare.net.
-Name:	heidoujinfu.com.cdn.cloudflare.net
-Address: 104.21.39.212
-Name:	heidoujinfu.com.cdn.cloudflare.net
-Address: 172.67.148.227
-Name:	heidoujinfu.com.cdn.cloudflare.net
-Address: 2606:4700:3034::6815:27d4
-Name:	heidoujinfu.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:94e3
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.jsdrtzn.com	canonical name = cf.zmdhc.com.
-Name:	cf.zmdhc.com
-Address: 172.67.6.23
-Name:	cf.zmdhc.com
-Address: 172.67.95.98
-Name:	cf.zmdhc.com
-Address: 172.67.77.180
-Name:	cf.zmdhc.com
-Address: 172.67.148.192
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-** server can't find www.116mh.com: NXDOMAIN
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.ayzjj.cn
-Address: 107.148.162.9
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.shadowweb.com	canonical name = traff-1.hugedomains.com.
-traff-1.hugedomains.com	canonical name = hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 54.209.32.212
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 52.71.57.184
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.zhongyunyang.com	canonical name = cf.zmdhc.com.
-Name:	cf.zmdhc.com
-Address: 172.67.77.180
-Name:	cf.zmdhc.com
-Address: 172.67.95.98
-Name:	cf.zmdhc.com
-Address: 172.67.148.192
-Name:	cf.zmdhc.com
-Address: 172.67.6.23
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-yy5566.com	canonical name = traff-3.hugedomains.com.
-traff-3.hugedomains.com	canonical name = hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
-Address: 3.19.116.195
-Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
-Address: 3.18.7.81
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www448.com	canonical name = traff-4.hugedomains.com.
-traff-4.hugedomains.com	canonical name = hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 3.94.41.167
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 52.86.6.113
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-zzxxx.com	canonical name = traff-2.hugedomains.com.
-traff-2.hugedomains.com	canonical name = hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com
-Address: 3.130.253.23
-Name:	hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com
-Address: 3.130.204.160
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	6080yy1.com
-Address: 76.223.67.189
-Name:	6080yy1.com
-Address: 13.248.213.45
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.hxsy888.com	canonical name = cf.zmdhc.com.
-Name:	cf.zmdhc.com
-Address: 172.67.148.192
-Name:	cf.zmdhc.com
-Address: 172.67.6.23
-Name:	cf.zmdhc.com
-Address: 172.67.77.180
-Name:	cf.zmdhc.com
-Address: 172.67.95.98
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	hentaishark.net
-Address: 172.67.140.46
-Name:	hentaishark.net
-Address: 104.21.49.10
-Name:	hentaishark.net
-Address: 2606:4700:3033::ac43:8c2e
-Name:	hentaishark.net
-Address: 2606:4700:3031::6815:310a
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	m.4tube.com
-Address: 104.20.224.111
-Name:	m.4tube.com
-Address: 104.20.223.111
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.sdxk.cn.com	canonical name = cf.dubi.eu.org.cdn.cloudflare.net.
-Name:	cf.dubi.eu.org.cdn.cloudflare.net
-Address: 104.21.70.253
-Name:	cf.dubi.eu.org.cdn.cloudflare.net
-Address: 172.67.141.24
-Name:	cf.dubi.eu.org.cdn.cloudflare.net
-Address: 2606:4700:3031::6815:46fd
-Name:	cf.dubi.eu.org.cdn.cloudflare.net
-Address: 2606:4700:3032::ac43:8d18
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.javapp.com	canonical name = traff-6.hugedomains.com.
-traff-6.hugedomains.com	canonical name = hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 3.140.13.188
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 18.119.154.66
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-pornchinese.com	canonical name = traff-6.hugedomains.com.
-traff-6.hugedomains.com	canonical name = hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 3.140.13.188
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 18.119.154.66
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.lvhuisb.com
-Address: 42.248.135.94
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.javabus.com	canonical name = traff-2.hugedomains.com.
-traff-2.hugedomains.com	canonical name = hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com
-Address: 3.130.253.23
-Name:	hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com
-Address: 3.130.204.160
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.lai823.com
-Address: 172.67.140.46
-Name:	www.lai823.com
-Address: 104.21.49.10
-Name:	www.lai823.com
-Address: 2606:4700:3031::6815:310a
-Name:	www.lai823.com
-Address: 2606:4700:3033::ac43:8c2e
-
-;; communications error to 127.0.0.53#53: timed out
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-** server can't find cdn.star163.com: NXDOMAIN
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.laowang45.com	canonical name = traff-6.hugedomains.com.
-traff-6.hugedomains.com	canonical name = hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 18.119.154.66
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 3.140.13.188
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.setdog.com	canonical name = traff-4.hugedomains.com.
-traff-4.hugedomains.com	canonical name = hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 3.94.41.167
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 52.86.6.113
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	oo972.com
-Address: 172.67.140.46
-Name:	oo972.com
-Address: 104.21.49.10
-Name:	oo972.com
-Address: 2606:4700:3033::ac43:8c2e
-Name:	oo972.com
-Address: 2606:4700:3031::6815:310a
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.bcy6666.com
-Address: 104.21.18.108
-Name:	www.bcy6666.com
-Address: 172.67.181.154
-Name:	www.bcy6666.com
-Address: 2606:4700:3037::6815:126c
-Name:	www.bcy6666.com
-Address: 2606:4700:3032::ac43:b59a
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.4tube.com
-Address: 104.20.224.111
-Name:	www.4tube.com
-Address: 104.20.223.111
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.cctv2.net	canonical name = cf.huyu.eu.org.
-Name:	cf.huyu.eu.org
-Address: 172.67.183.95
-Name:	cf.huyu.eu.org
-Address: 104.21.18.212
-Name:	cf.huyu.eu.org
-Address: 2606:4700:3033::6815:12d4
-Name:	cf.huyu.eu.org
-Address: 2606:4700:3030::ac43:b75f
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.3wyy.com	canonical name = cdn.5206080.xyz.
-Name:	cdn.5206080.xyz
-Address: 1.1.1.1
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.9868w.com	canonical name = traff-4.hugedomains.com.
-traff-4.hugedomains.com	canonical name = hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 52.86.6.113
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 3.94.41.167
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.boyangjt.com
-Address: 104.16.104.218
-Name:	www.boyangjt.com
-Address: 104.16.72.177
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-my1977.com	canonical name = traff-2.hugedomains.com.
-traff-2.hugedomains.com	canonical name = hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com
-Address: 3.130.253.23
-Name:	hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com
-Address: 3.130.204.160
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.tv980.com	canonical name = traff-3.hugedomains.com.
-traff-3.hugedomains.com	canonical name = hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
-Address: 3.19.116.195
-Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
-Address: 3.18.7.81
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.cc515.com	canonical name = cf.dubi.eu.org.cdn.cloudflare.net.
-Name:	cf.dubi.eu.org.cdn.cloudflare.net
-Address: 104.21.70.253
-Name:	cf.dubi.eu.org.cdn.cloudflare.net
-Address: 172.67.141.24
-Name:	cf.dubi.eu.org.cdn.cloudflare.net
-Address: 2606:4700:3032::ac43:8d18
-Name:	cf.dubi.eu.org.cdn.cloudflare.net
-Address: 2606:4700:3031::6815:46fd
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.4hu99.com	canonical name = traff-5.hugedomains.com.
-traff-5.hugedomains.com	canonical name = hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 54.161.222.85
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 34.205.242.146
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.92kyy.com	canonical name = cdn.5206080.xyz.
-Name:	cdn.5206080.xyz
-Address: 1.1.1.1
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.yy904.com	canonical name = traff-6.hugedomains.com.
-traff-6.hugedomains.com	canonical name = hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 18.119.154.66
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 3.140.13.188
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-httpwww.8x8x8.com	canonical name = traff-5.hugedomains.com.
-traff-5.hugedomains.com	canonical name = hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 54.161.222.85
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 34.205.242.146
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.ehantai.com	canonical name = traff-4.hugedomains.com.
-traff-4.hugedomains.com	canonical name = hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 3.94.41.167
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 52.86.6.113
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-** server can't find www.7811301.com: NXDOMAIN
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.0dmm.com	canonical name = traff-3.hugedomains.com.
-traff-3.hugedomains.com	canonical name = hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
-Address: 3.18.7.81
-Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
-Address: 3.19.116.195
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.91tulu.com
-Address: 172.67.140.46
-Name:	www.91tulu.com
-Address: 104.21.49.10
-Name:	www.91tulu.com
-Address: 2606:4700:3031::6815:310a
-Name:	www.91tulu.com
-Address: 2606:4700:3033::ac43:8c2e
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.paizipai.top	canonical name = rdns.itcdn.top.
-rdns.itcdn.top	canonical name = stock.hostmonit.com.
-stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 172.67.187.251
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 104.21.7.193
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:bbfb
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:7c1
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.15dy.com
-Address: 104.21.49.10
-Name:	www.15dy.com
-Address: 172.67.140.46
-Name:	www.15dy.com
-Address: 2606:4700:3033::ac43:8c2e
-Name:	www.15dy.com
-Address: 2606:4700:3031::6815:310a
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-cc515.com	canonical name = cf.dubi.eu.org.cdn.cloudflare.net.
-Name:	cf.dubi.eu.org.cdn.cloudflare.net
-Address: 104.21.70.253
-Name:	cf.dubi.eu.org.cdn.cloudflare.net
-Address: 172.67.141.24
-Name:	cf.dubi.eu.org.cdn.cloudflare.net
-Address: 2606:4700:3031::6815:46fd
-Name:	cf.dubi.eu.org.cdn.cloudflare.net
-Address: 2606:4700:3032::ac43:8d18
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-sebo999.com	canonical name = traff-1.hugedomains.com.
-traff-1.hugedomains.com	canonical name = hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 52.71.57.184
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 54.209.32.212
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	m.baokanwang.com
-Address: 107.148.162.9
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	ayzjj.cn
-Address: 107.148.162.9
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.97chaopeng.com	canonical name = traff-6.hugedomains.com.
-traff-6.hugedomains.com	canonical name = hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 3.140.13.188
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 18.119.154.66
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	182qw.com
-Address: 154.23.90.245
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.182qw.com
-Address: 154.23.90.245
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.13maobk.com
-Address: 104.21.88.95
-Name:	www.13maobk.com
-Address: 172.67.175.214
-Name:	www.13maobk.com
-Address: 2606:4700:3030::ac43:afd6
-Name:	www.13maobk.com
-Address: 2606:4700:3035::6815:585f
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-** server can't find p3.chg006.co: NXDOMAIN
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.heidoujinfu.com	canonical name = heidoujinfu.com.cdn.cloudflare.net.
-Name:	heidoujinfu.com.cdn.cloudflare.net
-Address: 104.21.39.212
-Name:	heidoujinfu.com.cdn.cloudflare.net
-Address: 172.67.148.227
-Name:	heidoujinfu.com.cdn.cloudflare.net
-Address: 2606:4700:3034::6815:27d4
-Name:	heidoujinfu.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:94e3
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.862xj.com	canonical name = traff-4.hugedomains.com.
-traff-4.hugedomains.com	canonical name = hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 3.94.41.167
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 52.86.6.113
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.yese6.com	canonical name = traff-2.hugedomains.com.
-traff-2.hugedomains.com	canonical name = hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com
-Address: 3.130.204.160
-Name:	hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com
-Address: 3.130.253.23
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-wwv.javabus.com	canonical name = traff-5.hugedomains.com.
-traff-5.hugedomains.com	canonical name = hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 54.161.222.85
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 34.205.242.146
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	xn--tfro9na7882a.com
-Address: 104.21.49.10
-Name:	xn--tfro9na7882a.com
-Address: 172.67.140.46
-Name:	xn--tfro9na7882a.com
-Address: 2606:4700:3033::ac43:8c2e
-Name:	xn--tfro9na7882a.com
-Address: 2606:4700:3031::6815:310a
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.80yy3.com	canonical name = cdn.5206080.xyz.
-Name:	cdn.5206080.xyz
-Address: 1.1.1.1
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.gaoaa.com	canonical name = traff-4.hugedomains.com.
-traff-4.hugedomains.com	canonical name = hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 3.94.41.167
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 52.86.6.113
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.asianvipescort.com
-Address: 104.21.49.10
-Name:	www.asianvipescort.com
-Address: 172.67.140.46
-Name:	www.asianvipescort.com
-Address: 2606:4700:3031::6815:310a
-Name:	www.asianvipescort.com
-Address: 2606:4700:3033::ac43:8c2e
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-** server can't find www.58zztl.xyz: NXDOMAIN
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-** server can't find yqpofl.ou2ho6.cyou: NXDOMAIN
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.seseai.com	canonical name = traff-1.hugedomains.com.
-traff-1.hugedomains.com	canonical name = hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 52.71.57.184
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 54.209.32.212
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-55yin.com	canonical name = traff-6.hugedomains.com.
-traff-6.hugedomains.com	canonical name = hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 3.140.13.188
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 18.119.154.66
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www8819.com	canonical name = traff-6.hugedomains.com.
-traff-6.hugedomains.com	canonical name = hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 3.140.13.188
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 18.119.154.66
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	4tube.com
-Address: 104.20.223.111
-Name:	4tube.com
-Address: 104.20.224.111
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.235tv.com	canonical name = cf.qiyexxw.eu.org.cdn.cloudflare.net.
-Name:	cf.qiyexxw.eu.org.cdn.cloudflare.net
-Address: 104.21.21.59
-Name:	cf.qiyexxw.eu.org.cdn.cloudflare.net
-Address: 172.67.196.195
-Name:	cf.qiyexxw.eu.org.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:c4c3
-Name:	cf.qiyexxw.eu.org.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:153b
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-4tiger.com	canonical name = traff-2.hugedomains.com.
-traff-2.hugedomains.com	canonical name = hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com
-Address: 3.130.204.160
-Name:	hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com
-Address: 3.130.253.23
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-2wyy.com	canonical name = cdn.5206080.xyz.
-Name:	cdn.5206080.xyz
-Address: 1.1.1.1
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.777xoxo.com	canonical name = traff-5.hugedomains.com.
-traff-5.hugedomains.com	canonical name = hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 54.161.222.85
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 34.205.242.146
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.lai5566.com	canonical name = traff-6.hugedomains.com.
-traff-6.hugedomains.com	canonical name = hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 18.119.154.66
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 3.140.13.188
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-2npy.com	canonical name = traff-4.hugedomains.com.
-traff-4.hugedomains.com	canonical name = hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 52.86.6.113
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 3.94.41.167
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-ag1024.com	canonical name = traff-1.hugedomains.com.
-traff-1.hugedomains.com	canonical name = hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 54.209.32.212
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 52.71.57.184
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-ip163.com	canonical name = traff-5.hugedomains.com.
-traff-5.hugedomains.com	canonical name = hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 34.205.242.146
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 54.161.222.85
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	65bao.com
-Address: 172.67.193.99
-Name:	65bao.com
-Address: 104.21.60.70
-Name:	65bao.com
-Address: 2606:4700:3037::6815:3c46
-Name:	65bao.com
-Address: 2606:4700:3031::ac43:c163
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.yiqianhg.com	canonical name = cf.zmdhc.com.
-Name:	cf.zmdhc.com
-Address: 172.67.148.192
-Name:	cf.zmdhc.com
-Address: 172.67.6.23
-Name:	cf.zmdhc.com
-Address: 172.67.77.180
-Name:	cf.zmdhc.com
-Address: 172.67.95.98
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.hentaishark.net
-Address: 172.67.140.46
-Name:	www.hentaishark.net
-Address: 104.21.49.10
-Name:	www.hentaishark.net
-Address: 2606:4700:3031::6815:310a
-Name:	www.hentaishark.net
-Address: 2606:4700:3033::ac43:8c2e
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	kan9197.com
-Address: 112.121.163.83
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.titire.com	canonical name = traff-2.hugedomains.com.
-traff-2.hugedomains.com	canonical name = hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com
-Address: 3.130.253.23
-Name:	hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com
-Address: 3.130.204.160
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	dsxys.com
-Address: 192.64.119.232
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.fengyun180.cn
-Address: 38.48.216.146
-;; communications error to 127.0.0.53#53: timed out
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-xxxxmmmm.com	canonical name = traff-5.hugedomains.com.
-traff-5.hugedomains.com	canonical name = hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 54.161.222.85
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 34.205.242.146
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-yoyose.com	canonical name = traff-4.hugedomains.com.
-traff-4.hugedomains.com	canonical name = hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 52.86.6.113
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 3.94.41.167
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	guoctang.com
-Address: 103.150.181.38
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-50kan.com	canonical name = 50kan.com.cdn.cloudflare.net.
-Name:	50kan.com.cdn.cloudflare.net
-Address: 104.21.45.109
-Name:	50kan.com.cdn.cloudflare.net
-Address: 172.67.213.113
-Name:	50kan.com.cdn.cloudflare.net
-Address: 2606:4700:3034::ac43:d571
-Name:	50kan.com.cdn.cloudflare.net
-Address: 2606:4700:3033::6815:2d6d
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	sgv7.com
-Address: 91.195.240.94
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-cdn.2345book.com	canonical name = 78worldcdn.2345book.com.
-78worldcdn.2345book.com	canonical name = 171485647.r.cloudnexus.cc.
-Name:	171485647.r.cloudnexus.cc
-Address: 23.237.116.4
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-cf-lt.sharecentre.online	canonical name = stock.hostmonit.com.
-stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 104.21.7.193
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 172.67.187.251
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:bbfb
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:7c1
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.bd666.cn
-Address: 104.21.49.10
-Name:	www.bd666.cn
-Address: 172.67.140.46
-Name:	www.bd666.cn
-Address: 2606:4700:3031::6815:310a
-Name:	www.bd666.cn
-Address: 2606:4700:3033::ac43:8c2e
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.sy5151.com
-Address: 204.11.56.37
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.pp289.com	canonical name = traff-1.hugedomains.com.
-traff-1.hugedomains.com	canonical name = hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 54.209.32.212
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 52.71.57.184
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.pururin.to
-Address: 172.67.219.29
-Name:	www.pururin.to
-Address: 104.21.62.29
-Name:	www.pururin.to
-Address: 2606:4700:3034::6815:3e1d
-Name:	www.pururin.to
-Address: 2606:4700:3030::ac43:db1d
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.dedelu.com	canonical name = traff-3.hugedomains.com.
-traff-3.hugedomains.com	canonical name = hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
-Address: 3.19.116.195
-Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
-Address: 3.18.7.81
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-m.google123.cc	canonical name = cdn.milukj.net.
-Name:	cdn.milukj.net
-Address: 156.224.27.248
-Name:	cdn.milukj.net
-Address: 198.44.185.81
-Name:	cdn.milukj.net
-Address: 198.44.185.92
-Name:	cdn.milukj.net
-Address: 198.44.185.116
-Name:	cdn.milukj.net
-Address: 198.44.187.153
-Name:	cdn.milukj.net
-Address: 198.44.187.175
-Name:	cdn.milukj.net
-Address: 198.44.187.198
-Name:	cdn.milukj.net
-Address: 154.29.148.67
-Name:	cdn.milukj.net
-Address: 154.204.181.244
-Name:	cdn.milukj.net
-Address: 156.224.27.102
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
+** server can't find proxy.611886.xyz: NXDOMAIN
 
-Non-authoritative answer:
-www.4tiger.com	canonical name = traff-1.hugedomains.com.
-traff-1.hugedomains.com	canonical name = hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 54.209.32.212
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 52.71.57.184
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.dgytlt.com	canonical name = cf.zmdhc.com.
-Name:	cf.zmdhc.com
-Address: 172.67.6.23
-Name:	cf.zmdhc.com
-Address: 172.67.77.180
-Name:	cf.zmdhc.com
-Address: 172.67.95.98
-Name:	cf.zmdhc.com
-Address: 172.67.148.192
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.888dyy.cc	canonical name = ccc.zheshei.com.
-Name:	ccc.zheshei.com
-Address: 104.21.49.157
-Name:	ccc.zheshei.com
-Address: 172.67.191.48
-Name:	ccc.zheshei.com
-Address: 2606:4700:130:436c:6f75:6466:6c61:7265
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-92kyy.com	canonical name = cdn.5206080.xyz.
-Name:	cdn.5206080.xyz
-Address: 1.1.1.1
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.77wg.vip	canonical name = domainexpired.dnspod.cn.
-Name:	domainexpired.dnspod.cn
-Address: 175.178.32.60
-Name:	domainexpired.dnspod.cn
-Address: 119.91.230.82
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-35kan.com	canonical name = 35kan.com.cdn.cloudflare.net.
-Name:	35kan.com.cdn.cloudflare.net
-Address: 172.67.175.240
-Name:	35kan.com.cdn.cloudflare.net
-Address: 104.21.72.58
-Name:	35kan.com.cdn.cloudflare.net
-Address: 2606:4700:3034::ac43:aff0
-Name:	35kan.com.cdn.cloudflare.net
-Address: 2606:4700:3034::6815:483a
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-taicoccoc.com	canonical name = traff-1.hugedomains.com.
-traff-1.hugedomains.com	canonical name = hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 54.209.32.212
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 52.71.57.184
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.by157.com	canonical name = traff-2.hugedomains.com.
-traff-2.hugedomains.com	canonical name = hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com
-Address: 3.130.204.160
-Name:	hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com
-Address: 3.130.253.23
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-google123.cc	canonical name = cdn.milukj.net.
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-sansi03.com	canonical name = cname.sansi01.com.
-Name:	cname.sansi01.com
-Address: 104.21.36.166
-Name:	cname.sansi01.com
-Address: 172.67.197.150
-Name:	cname.sansi01.com
-Address: 2606:4700:3035::ac43:c596
-Name:	cname.sansi01.com
-Address: 2606:4700:3030::6815:24a6
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-1090tv.com	canonical name = traff-2.hugedomains.com.
-traff-2.hugedomains.com	canonical name = hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com
-Address: 3.130.204.160
-Name:	hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com
-Address: 3.130.253.23
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-** server can't find www.9889my.com: NXDOMAIN
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.50kan.com	canonical name = 50kan.com.cdn.cloudflare.net.
-Name:	50kan.com.cdn.cloudflare.net
-Address: 172.67.213.113
-Name:	50kan.com.cdn.cloudflare.net
-Address: 104.21.45.109
-Name:	50kan.com.cdn.cloudflare.net
-Address: 2606:4700:3034::ac43:d571
-Name:	50kan.com.cdn.cloudflare.net
-Address: 2606:4700:3033::6815:2d6d
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.gzgafk.com	canonical name = 53646685.allyvn.com.
-53646685.allyvn.com	canonical name = dns.allyvn.com.
-Name:	dns.allyvn.com
-Address: 154.85.10.34
-Name:	dns.allyvn.com
-Address: 154.85.10.40
-Name:	dns.allyvn.com
-Address: 154.85.10.114
-Name:	dns.allyvn.com
-Address: 94.154.114.135
-Name:	dns.allyvn.com
-Address: 104.218.234.75
-Name:	dns.allyvn.com
-Address: 104.218.235.120
-Name:	dns.allyvn.com
-Address: 154.84.23.7
-Name:	dns.allyvn.com
-Address: 154.84.23.30
-Name:	dns.allyvn.com
-Address: 154.84.23.34
-Name:	dns.allyvn.com
-Address: 154.84.23.42
-Name:	dns.allyvn.com
-Address: 154.84.23.58
-Name:	dns.allyvn.com
-Address: 154.84.23.118
-Name:	dns.allyvn.com
-Address: 154.84.24.51
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-0dmm.com	canonical name = traff-1.hugedomains.com.
-traff-1.hugedomains.com	canonical name = hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 52.71.57.184
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 54.209.32.212
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	nmgtzb.org.cn
-Address: 38.12.33.140
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.baokanwang.com
-Address: 107.148.162.9
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.6080yy4.com	canonical name = cdn.5206080.xyz.
-Name:	cdn.5206080.xyz
-Address: 1.1.1.1
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.fengyunhundun.com
-Address: 154.214.185.119
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.yt09.com	canonical name = traff-1.hugedomains.com.
-traff-1.hugedomains.com	canonical name = hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 52.71.57.184
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 54.209.32.212
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.9805tl.xyz
-Address: 13.248.169.48
-Name:	www.9805tl.xyz
-Address: 76.223.54.146
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.211cc.com	canonical name = traff-1.hugedomains.com.
-traff-1.hugedomains.com	canonical name = hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 54.209.32.212
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 52.71.57.184
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.17kty.com	canonical name = cf.zmdhc.com.
-Name:	cf.zmdhc.com
-Address: 172.67.77.180
-Name:	cf.zmdhc.com
-Address: 172.67.95.98
-Name:	cf.zmdhc.com
-Address: 172.67.148.192
-Name:	cf.zmdhc.com
-Address: 172.67.6.23
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.guoctang.com
-Address: 103.150.181.38
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	dmge.cc
-Address: 172.64.80.1
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-90ms.com	canonical name = wenbin.lu.cdn.cloudflare.net.
-Name:	wenbin.lu.cdn.cloudflare.net
-Address: 172.67.222.76
-Name:	wenbin.lu.cdn.cloudflare.net
-Address: 104.21.17.47
-Name:	wenbin.lu.cdn.cloudflare.net
-Address: 2606:4700:3031::6815:112f
-Name:	wenbin.lu.cdn.cloudflare.net
-Address: 2606:4700:3034::ac43:de4c
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.imeiju.net	canonical name = cf.zmdhc.com.
-Name:	cf.zmdhc.com
-Address: 172.67.95.98
-Name:	cf.zmdhc.com
-Address: 172.67.148.192
-Name:	cf.zmdhc.com
-Address: 172.67.6.23
-Name:	cf.zmdhc.com
-Address: 172.67.77.180
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.266ne.com	canonical name = traff-4.hugedomains.com.
-traff-4.hugedomains.com	canonical name = hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 3.94.41.167
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 52.86.6.113
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.k77yy.com	canonical name = ccc.zheshei.com.
-Name:	ccc.zheshei.com
-Address: 172.64.80.1
-Name:	ccc.zheshei.com
-Address: 2606:4700:130:436c:6f75:6466:6c61:7265
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.80kk.app	canonical name = cdn.5206080.xyz.
-Name:	cdn.5206080.xyz
-Address: 1.1.1.1
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.867bb.com	canonical name = traff-5.hugedomains.com.
-traff-5.hugedomains.com	canonical name = hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 54.161.222.85
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 34.205.242.146
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-blog.aiol.cloudns.ch	canonical name = alist.aiol.cloudns.ch.
-Name:	alist.aiol.cloudns.ch
-Address: 104.21.91.217
-Name:	alist.aiol.cloudns.ch
-Address: 172.67.180.196
-Name:	alist.aiol.cloudns.ch
-Address: 2606:4700:130:436c:6f75:6466:6c61:7265
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.423hk.com	canonical name = traff-6.hugedomains.com.
-traff-6.hugedomains.com	canonical name = hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 18.119.154.66
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 3.140.13.188
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.nmgtzb.org.cn
-Address: 38.12.33.140
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.rr148.com	canonical name = traff-6.hugedomains.com.
-traff-6.hugedomains.com	canonical name = hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 3.140.13.188
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 18.119.154.66
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.424hk.com	canonical name = traff-2.hugedomains.com.
-traff-2.hugedomains.com	canonical name = hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com
-Address: 3.130.204.160
-Name:	hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com
-Address: 3.130.253.23
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.hdmyy.com	canonical name = cdn.5206080.xyz.
-Name:	cdn.5206080.xyz
-Address: 1.1.1.1
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.cdjyhm.com
-Address: 104.21.43.200
-Name:	www.cdjyhm.com
-Address: 172.67.184.176
-Name:	www.cdjyhm.com
-Address: 2606:4700:3037::6815:2bc8
-Name:	www.cdjyhm.com
-Address: 2606:4700:3037::ac43:b8b0
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	asianvipescort.com
-Address: 172.67.140.46
-Name:	asianvipescort.com
-Address: 104.21.49.10
-Name:	asianvipescort.com
-Address: 2606:4700:3031::6815:310a
-Name:	asianvipescort.com
-Address: 2606:4700:3033::ac43:8c2e
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.by151.com	canonical name = traff-1.hugedomains.com.
-traff-1.hugedomains.com	canonical name = hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 54.209.32.212
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 52.71.57.184
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	m.guoctang.com
-Address: 103.150.181.38
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.266958.com	canonical name = cf.zmdhc.com.
-Name:	cf.zmdhc.com
-Address: 172.67.148.192
-Name:	cf.zmdhc.com
-Address: 172.67.6.23
-Name:	cf.zmdhc.com
-Address: 172.67.77.180
-Name:	cf.zmdhc.com
-Address: 172.67.95.98
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.37av.com	canonical name = traff-5.hugedomains.com.
-traff-5.hugedomains.com	canonical name = hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 54.161.222.85
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 34.205.242.146
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-774q.com	canonical name = traff-4.hugedomains.com.
-traff-4.hugedomains.com	canonical name = hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 52.86.6.113
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 3.94.41.167
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	danglong.fun
-Address: 104.21.49.10
-Name:	danglong.fun
-Address: 172.67.140.46
-Name:	danglong.fun
-Address: 2606:4700:3031::6815:310a
-Name:	danglong.fun
-Address: 2606:4700:3033::ac43:8c2e
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.kmbenma.com
-Address: 162.210.196.166
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-yunpan1.cc	canonical name = yunpan1.cc.cdn.fun.
-Name:	yunpan1.cc.cdn.fun
-Address: 51.79.19.142
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.gejuxhs.cn
-Address: 154.95.163.108
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.zxc999.cn
-Address: 34.120.249.181
-Name:	www.zxc999.cn
-Address: 34.149.24.8
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.av84.com	canonical name = traff-3.hugedomains.com.
-traff-3.hugedomains.com	canonical name = hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
-Address: 3.19.116.195
-Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
-Address: 3.18.7.81
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.see69.com	canonical name = traff-1.hugedomains.com.
-traff-1.hugedomains.com	canonical name = hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 52.71.57.184
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 54.209.32.212
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.upupso.com
-Address: 162.159.138.65
-
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-www.33mov.com	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
+Name:	ipv4.ip.sb
+Address: 104.26.13.31
+Name:	ipv4.ip.sb
+Address: 104.26.12.31
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-www.mimiboard.com	canonical name = traff-5.hugedomains.com.
-traff-5.hugedomains.com	canonical name = hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 34.205.242.146
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 54.161.222.85
+yecaoyun.com	canonical name = web-server-cdn.yecaollc.com.
+Name:	web-server-cdn.yecaollc.com
+Address: 172.67.165.101
+Name:	web-server-cdn.yecaollc.com
+Address: 104.21.81.225
+Name:	web-server-cdn.yecaollc.com
+Address: 2606:4700:3030::ac43:a565
+Name:	web-server-cdn.yecaollc.com
+Address: 2606:4700:3037::6815:51e1
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-www.2npy.com	canonical name = traff-4.hugedomains.com.
-traff-4.hugedomains.com	canonical name = hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 52.86.6.113
-Name:	hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
-Address: 3.94.41.167
+Name:	ip.sb
+Address: 172.67.75.172
+Name:	ip.sb
+Address: 104.26.12.31
+Name:	ip.sb
+Address: 104.26.13.31
+Name:	ip.sb
+Address: 2606:4700:20::681a:d1f
+Name:	ip.sb
+Address: 2606:4700:20::ac43:4bac
+Name:	ip.sb
+Address: 2606:4700:20::681a:c1f
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
-Non-authoritative answer:
-Name:	lai823.com
-Address: 104.21.49.10
-Name:	lai823.com
-Address: 172.67.140.46
-Name:	lai823.com
-Address: 2606:4700:3031::6815:310a
-Name:	lai823.com
-Address: 2606:4700:3033::ac43:8c2e
+** server can't find www.clun.top: NXDOMAIN
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-www.youjizzjizz.com	canonical name = traff-1.hugedomains.com.
-traff-1.hugedomains.com	canonical name = hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 52.71.57.184
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 54.209.32.212
+us02.nttkk.com	canonical name = a1.nttkk.com.
+a1.nttkk.com	canonical name = a1.zz.nttkk.com.
+a1.zz.nttkk.com	canonical name = www.oppo.com.
+www.oppo.com	canonical name = www.oppo.com.edgekey.net.
+www.oppo.com.edgekey.net	canonical name = e94411.a.akamaiedge.net.
+Name:	e94411.a.akamaiedge.net
+Address: 23.53.35.140
+Name:	e94411.a.akamaiedge.net
+Address: 23.53.35.144
 
 ;; Truncated, retrying in TCP mode.
 Server:		127.0.0.53
@@ -2515,398 +74,943 @@ Address:	127.0.0.53#53
 
 Non-authoritative answer:
 Name:	sp.dsnl.link
-Address: 172.64.229.135
-Name:	sp.dsnl.link
-Address: 47.245.5.56
-Name:	sp.dsnl.link
-Address: 47.253.48.224
-Name:	sp.dsnl.link
-Address: 172.64.80.1
-Name:	sp.dsnl.link
-Address: 162.159.9.55
-Name:	sp.dsnl.link
-Address: 193.123.250.179
-Name:	sp.dsnl.link
-Address: 195.85.59.95
-Name:	sp.dsnl.link
-Address: 172.67.75.172
-Name:	sp.dsnl.link
-Address: 104.26.3.236
-Name:	sp.dsnl.link
-Address: 108.162.192.100
-Name:	sp.dsnl.link
-Address: 8.218.119.115
-Name:	sp.dsnl.link
-Address: 104.18.181.127
-Name:	sp.dsnl.link
-Address: 104.19.80.93
-Name:	sp.dsnl.link
-Address: 104.17.17.172
-Name:	sp.dsnl.link
-Address: 8.217.65.171
-Name:	sp.dsnl.link
-Address: 104.18.23.238
-Name:	sp.dsnl.link
-Address: 104.16.27.34
-Name:	sp.dsnl.link
-Address: 8.212.22.4
-Name:	sp.dsnl.link
-Address: 172.67.149.176
-Name:	sp.dsnl.link
-Address: 130.162.144.222
-Name:	sp.dsnl.link
-Address: 47.57.189.113
-Name:	sp.dsnl.link
-Address: 104.18.64.91
-Name:	sp.dsnl.link
-Address: 172.66.40.170
-Name:	sp.dsnl.link
-Address: 172.67.73.61
-Name:	sp.dsnl.link
-Address: 104.26.2.236
-Name:	sp.dsnl.link
-Address: 108.162.193.100
-Name:	sp.dsnl.link
-Address: 43.153.58.8
-Name:	sp.dsnl.link
-Address: 104.29.68.66
-Name:	sp.dsnl.link
-Address: 162.159.2.9
-Name:	sp.dsnl.link
-Address: 104.16.28.34
-Name:	sp.dsnl.link
-Address: 173.245.59.100
-Name:	sp.dsnl.link
-Address: 8.210.77.76
-Name:	sp.dsnl.link
-Address: 104.18.74.110
-Name:	sp.dsnl.link
-Address: 217.163.76.245
-Name:	sp.dsnl.link
-Address: 188.114.97.0
-Name:	sp.dsnl.link
-Address: 52.220.244.242
-Name:	sp.dsnl.link
-Address: 188.114.96.1
-Name:	sp.dsnl.link
-Address: 43.132.205.28
-Name:	sp.dsnl.link
-Address: 172.64.229.173
-Name:	sp.dsnl.link
-Address: 104.17.62.34
-Name:	sp.dsnl.link
-Address: 139.175.41.56
-Name:	sp.dsnl.link
-Address: 104.19.188.165
-Name:	sp.dsnl.link
-Address: 104.16.3.35
-Name:	sp.dsnl.link
-Address: 140.238.10.85
-Name:	sp.dsnl.link
-Address: 172.67.75.246
-Name:	sp.dsnl.link
-Address: 104.16.58.204
-Name:	sp.dsnl.link
-Address: 146.56.184.135
-Name:	sp.dsnl.link
-Address: 162.159.4.8
-Name:	sp.dsnl.link
-Address: 104.17.81.118
-Name:	sp.dsnl.link
-Address: 104.16.3.60
-Name:	sp.dsnl.link
-Address: 162.159.134.229
+Address: 104.19.13.84
 Name:	sp.dsnl.link
 Address: 192.203.230.11
 Name:	sp.dsnl.link
-Address: 217.163.76.34
+Address: 172.64.194.195
 Name:	sp.dsnl.link
-Address: 162.159.137.179
+Address: 172.67.68.157
 Name:	sp.dsnl.link
-Address: 172.67.169.97
+Address: 47.253.48.224
 Name:	sp.dsnl.link
-Address: 104.19.13.84
+Address: 188.114.98.224
 Name:	sp.dsnl.link
-Address: 162.159.152.42
+Address: 23.3.88.48
 Name:	sp.dsnl.link
-Address: 162.159.1.33
+Address: 104.19.55.239
 Name:	sp.dsnl.link
-Address: 104.17.220.109
+Address: 217.163.76.241
 Name:	sp.dsnl.link
-Address: 140.238.12.33
+Address: 172.64.229.135
 Name:	sp.dsnl.link
-Address: 188.114.99.229
+Address: 8.212.22.4
 Name:	sp.dsnl.link
-Address: 217.163.76.79
+Address: 104.26.13.54
 Name:	sp.dsnl.link
-Address: 162.159.133.239
+Address: 162.159.241.57
 Name:	sp.dsnl.link
-Address: 104.18.109.91
+Address: 172.67.96.80
 Name:	sp.dsnl.link
-Address: 172.67.187.83
+Address: 188.114.97.7
 Name:	sp.dsnl.link
-Address: 172.67.75.174
+Address: 104.16.3.35
 Name:	sp.dsnl.link
-Address: 104.16.1.35
+Address: 104.16.28.34
 Name:	sp.dsnl.link
-Address: 43.154.163.154
-Name:	sp.dsnl.link
-Address: 217.163.76.254
-Name:	sp.dsnl.link
-Address: 217.163.76.82
-Name:	sp.dsnl.link
-Address: 104.18.23.235
+Address: 104.18.22.238
 Name:	sp.dsnl.link
 Address: 104.26.13.140
 Name:	sp.dsnl.link
 Address: 104.29.59.69
 Name:	sp.dsnl.link
-Address: 217.163.76.92
-Name:	sp.dsnl.link
-Address: 104.18.107.27
-Name:	sp.dsnl.link
-Address: 188.114.98.229
-Name:	sp.dsnl.link
-Address: 104.19.55.239
-Name:	sp.dsnl.link
-Address: 47.243.179.249
-Name:	sp.dsnl.link
-Address: 172.67.139.38
-Name:	sp.dsnl.link
-Address: 162.159.7.226
-Name:	sp.dsnl.link
-Address: 104.21.18.144
-Name:	sp.dsnl.link
-Address: 104.16.25.34
-Name:	sp.dsnl.link
-Address: 172.67.96.80
-Name:	sp.dsnl.link
-Address: 104.18.22.238
-Name:	sp.dsnl.link
-Address: 104.19.127.213
-Name:	sp.dsnl.link
-Address: 172.67.163.58
-Name:	sp.dsnl.link
-Address: 47.89.153.217
-Name:	sp.dsnl.link
-Address: 172.64.33.100
-Name:	sp.dsnl.link
-Address: 172.67.170.250
-Name:	sp.dsnl.link
-Address: 34.120.80.23
+Address: 162.159.152.42
 Name:	sp.dsnl.link
 Address: 188.114.99.224
 Name:	sp.dsnl.link
+Address: 104.21.18.144
+Name:	sp.dsnl.link
+Address: 104.18.104.231
+Name:	sp.dsnl.link
+Address: 172.66.47.104
+Name:	sp.dsnl.link
+Address: 43.135.135.28
+Name:	sp.dsnl.link
+Address: 104.19.127.213
+Name:	sp.dsnl.link
+Address: 104.18.74.110
+Name:	sp.dsnl.link
+Address: 23.200.75.101
+Name:	sp.dsnl.link
+Address: 172.67.76.38
+Name:	sp.dsnl.link
+Address: 162.159.137.179
+Name:	sp.dsnl.link
+Address: 104.18.74.87
+Name:	sp.dsnl.link
+Address: 104.18.107.27
+Name:	sp.dsnl.link
 Address: 104.16.26.34
 Name:	sp.dsnl.link
-Address: 104.18.138.205
-Name:	sp.dsnl.link
-Address: 47.240.11.186
-Name:	sp.dsnl.link
-Address: 104.17.130.70
-Name:	sp.dsnl.link
-Address: 23.201.35.74
-Name:	sp.dsnl.link
-Address: 172.64.83.188
-Name:	sp.dsnl.link
-Address: 172.67.68.157
-Name:	sp.dsnl.link
-Address: 172.67.182.83
-Name:	sp.dsnl.link
-Address: 104.21.235.137
+Address: 104.26.2.236
 Name:	sp.dsnl.link
 Address: 104.19.153.38
 Name:	sp.dsnl.link
-Address: 34.150.89.160
+Address: 130.162.144.222
 Name:	sp.dsnl.link
-Address: 217.163.76.212
+Address: 8.210.77.76
 Name:	sp.dsnl.link
-Address: 104.16.2.35
+Address: 172.64.32.100
 Name:	sp.dsnl.link
-Address: 104.18.93.127
-Name:	sp.dsnl.link
-Address: 104.22.37.243
-Name:	sp.dsnl.link
-Address: 104.17.180.11
-Name:	sp.dsnl.link
-Address: 104.18.79.255
-Name:	sp.dsnl.link
-Address: 104.18.102.195
-Name:	sp.dsnl.link
-Address: 162.159.241.57
-Name:	sp.dsnl.link
-Address: 104.26.13.54
-Name:	sp.dsnl.link
-Address: 104.18.74.121
-Name:	sp.dsnl.link
-Address: 172.67.70.255
+Address: 108.162.192.100
 Name:	sp.dsnl.link
 Address: 104.18.234.145
 Name:	sp.dsnl.link
-Address: 217.163.76.2
+Address: 139.175.41.56
 Name:	sp.dsnl.link
-Address: 188.114.97.3
+Address: 104.22.37.243
 Name:	sp.dsnl.link
-Address: 172.67.30.171
+Address: 140.238.12.33
 Name:	sp.dsnl.link
-Address: 104.18.63.150
+Address: 104.18.23.238
+Name:	sp.dsnl.link
+Address: 2.22.54.105
+Name:	sp.dsnl.link
+Address: 104.16.31.34
+Name:	sp.dsnl.link
+Address: 104.21.235.246
 Name:	sp.dsnl.link
 Address: 217.163.76.113
 Name:	sp.dsnl.link
-Address: 188.114.98.224
-Name:	sp.dsnl.link
-Address: 217.163.76.98
-Name:	sp.dsnl.link
-Address: 172.66.45.6
-Name:	sp.dsnl.link
 Address: 140.238.10.27
 Name:	sp.dsnl.link
-Address: 104.22.36.243
+Address: 104.16.3.60
 Name:	sp.dsnl.link
-Address: 52.220.193.16
+Address: 104.18.10.128
 Name:	sp.dsnl.link
-Address: 188.114.97.7
+Address: 47.57.189.113
 Name:	sp.dsnl.link
-Address: 217.163.76.89
+Address: 172.67.182.83
 Name:	sp.dsnl.link
-Address: 172.64.229.41
+Address: 104.17.17.172
+Name:	sp.dsnl.link
+Address: 188.114.97.3
+Name:	sp.dsnl.link
+Address: 104.17.62.34
+Name:	sp.dsnl.link
+Address: 104.17.81.118
+Name:	sp.dsnl.link
+Address: 95.100.104.35
+Name:	sp.dsnl.link
+Address: 217.163.76.82
+Name:	sp.dsnl.link
+Address: 188.114.96.1
+Name:	sp.dsnl.link
+Address: 173.245.59.100
+Name:	sp.dsnl.link
+Address: 104.18.102.195
+Name:	sp.dsnl.link
+Address: 217.163.76.76
 Name:	sp.dsnl.link
 Address: 162.159.5.6
 Name:	sp.dsnl.link
-Address: 23.3.88.48
+Address: 104.19.80.93
+Name:	sp.dsnl.link
+Address: 217.163.76.92
+Name:	sp.dsnl.link
+Address: 47.240.11.186
+Name:	sp.dsnl.link
+Address: 104.18.74.121
+Name:	sp.dsnl.link
+Address: 172.67.75.172
+Name:	sp.dsnl.link
+Address: 188.114.99.229
+Name:	sp.dsnl.link
+Address: 162.159.133.239
+Name:	sp.dsnl.link
+Address: 172.67.170.250
+Name:	sp.dsnl.link
+Address: 8.217.65.171
+Name:	sp.dsnl.link
+Address: 146.56.184.135
+Name:	sp.dsnl.link
+Address: 43.154.163.154
+Name:	sp.dsnl.link
+Address: 104.16.1.35
+Name:	sp.dsnl.link
+Address: 104.29.68.66
+Name:	sp.dsnl.link
+Address: 172.67.169.97
+Name:	sp.dsnl.link
+Address: 217.163.76.245
+Name:	sp.dsnl.link
+Address: 217.163.76.254
+Name:	sp.dsnl.link
+Address: 104.18.79.255
+Name:	sp.dsnl.link
+Address: 195.85.59.95
+Name:	sp.dsnl.link
+Address: 104.17.180.11
+Name:	sp.dsnl.link
+Address: 104.26.12.54
+Name:	sp.dsnl.link
+Address: 172.64.99.190
+Name:	sp.dsnl.link
+Address: 104.18.138.205
+Name:	sp.dsnl.link
+Address: 217.163.76.2
+Name:	sp.dsnl.link
+Address: 104.16.58.204
+Name:	sp.dsnl.link
+Address: 217.163.76.98
+Name:	sp.dsnl.link
+Address: 47.89.153.217
+Name:	sp.dsnl.link
+Address: 104.26.3.236
+Name:	sp.dsnl.link
+Address: 104.16.25.34
+Name:	sp.dsnl.link
+Address: 18.139.201.98
+Name:	sp.dsnl.link
+Address: 217.163.76.186
+Name:	sp.dsnl.link
+Address: 47.245.5.56
+Name:	sp.dsnl.link
+Address: 104.16.196.112
+Name:	sp.dsnl.link
+Address: 104.16.27.34
+Name:	sp.dsnl.link
+Address: 47.243.179.249
+Name:	sp.dsnl.link
+Address: 34.120.80.23
+Name:	sp.dsnl.link
+Address: 108.162.193.100
+Name:	sp.dsnl.link
+Address: 172.67.73.61
+Name:	sp.dsnl.link
+Address: 104.18.64.91
+Name:	sp.dsnl.link
+Address: 172.64.229.173
+Name:	sp.dsnl.link
+Address: 172.67.149.176
+Name:	sp.dsnl.link
+Address: 162.159.1.33
+Name:	sp.dsnl.link
+Address: 104.22.36.243
+Name:	sp.dsnl.link
+Address: 172.64.33.100
+Name:	sp.dsnl.link
+Address: 34.150.89.160
+Name:	sp.dsnl.link
+Address: 104.21.235.137
+Name:	sp.dsnl.link
+Address: 217.163.76.212
+Name:	sp.dsnl.link
+Address: 104.18.93.127
+Name:	sp.dsnl.link
+Address: 172.67.163.58
+Name:	sp.dsnl.link
+Address: 43.132.205.28
+Name:	sp.dsnl.link
+Address: 172.66.45.6
+Name:	sp.dsnl.link
+Address: 172.67.30.171
+Name:	sp.dsnl.link
+Address: 162.159.9.55
+Name:	sp.dsnl.link
+Address: 172.64.80.1
+Name:	sp.dsnl.link
+Address: 172.67.75.174
+Name:	sp.dsnl.link
+Address: 104.17.220.109
+Name:	sp.dsnl.link
+Address: 104.18.63.150
+Name:	sp.dsnl.link
+Address: 188.114.97.0
+Name:	sp.dsnl.link
+Address: 188.114.98.229
+Name:	sp.dsnl.link
+Address: 172.67.187.83
+Name:	sp.dsnl.link
+Address: 104.29.59.45
+Name:	sp.dsnl.link
+Address: 104.16.2.35
+Name:	sp.dsnl.link
+Address: 217.163.76.89
+Name:	sp.dsnl.link
+Address: 172.67.70.255
+Name:	sp.dsnl.link
+Address: 162.159.2.9
+Name:	sp.dsnl.link
+Address: 172.66.40.170
+Name:	sp.dsnl.link
+Address: 193.123.250.179
+Name:	sp.dsnl.link
+Address: 104.26.12.140
+Name:	sp.dsnl.link
+Address: 172.67.75.246
+Name:	sp.dsnl.link
+Address: 172.64.229.41
+Name:	sp.dsnl.link
+Address: 172.64.108.224
+Name:	sp.dsnl.link
+Address: 104.18.109.91
+Name:	sp.dsnl.link
+Address: 104.19.188.165
+Name:	sp.dsnl.link
+Address: 162.159.4.8
+Name:	sp.dsnl.link
+Address: 104.18.23.235
+Name:	sp.dsnl.link
+Address: 217.163.76.79
+Name:	sp.dsnl.link
+Address: 162.159.193.178
+Name:	sp.dsnl.link
+Address: 172.64.166.39
+Name:	sp.dsnl.link
+Address: 172.67.139.38
+Name:	sp.dsnl.link
+Address: 162.159.134.229
+Name:	sp.dsnl.link
+Address: 52.220.244.242
+Name:	sp.dsnl.link
+Address: 23.201.35.74
+Name:	sp.dsnl.link
+Address: 43.153.58.8
+Name:	sp.dsnl.link
+Address: 162.159.60.84
+Name:	sp.dsnl.link
+Address: 104.18.181.127
+Name:	sp.dsnl.link
+Address: 172.67.184.154
+Name:	sp.dsnl.link
+Address: 52.220.193.16
+Name:	sp.dsnl.link
+Address: 8.218.119.115
+Name:	sp.dsnl.link
+Address: 162.159.7.226
+Name:	sp.dsnl.link
+Address: 172.64.83.188
+Name:	sp.dsnl.link
+Address: 104.17.130.70
+Name:	sp.dsnl.link
+Address: 104.18.205.160
 Name:	sp.dsnl.link
 Address: 104.18.44.152
 Name:	sp.dsnl.link
-Address: 172.64.166.39
+Address: 140.238.10.85
 Name:	sp.dsnl.link
 Address: 162.159.6.6
 Name:	sp.dsnl.link
 Address: 104.26.13.31
 Name:	sp.dsnl.link
-Address: 217.163.76.76
-Name:	sp.dsnl.link
-Address: 2.22.54.105
-Name:	sp.dsnl.link
-Address: 104.29.59.45
-Name:	sp.dsnl.link
-Address: 172.64.194.195
-Name:	sp.dsnl.link
-Address: 217.163.76.186
-Name:	sp.dsnl.link
-Address: 104.16.196.112
-Name:	sp.dsnl.link
-Address: 104.16.31.34
-Name:	sp.dsnl.link
-Address: 172.64.99.190
-Name:	sp.dsnl.link
-Address: 162.159.60.84
-Name:	sp.dsnl.link
-Address: 172.66.47.104
-Name:	sp.dsnl.link
-Address: 172.67.184.154
-Name:	sp.dsnl.link
-Address: 217.163.76.241
-Name:	sp.dsnl.link
-Address: 23.200.75.101
-Name:	sp.dsnl.link
-Address: 95.100.104.35
-Name:	sp.dsnl.link
-Address: 18.139.201.98
-Name:	sp.dsnl.link
-Address: 104.21.235.246
-Name:	sp.dsnl.link
-Address: 104.18.104.231
-Name:	sp.dsnl.link
-Address: 172.64.108.224
-Name:	sp.dsnl.link
-Address: 104.26.12.140
-Name:	sp.dsnl.link
+Address: 217.163.76.34
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find m.clun.top: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+jp02.nttkk.com	canonical name = a0.nttkk.com.
+a0.nttkk.com	canonical name = 6988tv.com.
+6988tv.com	canonical name = cf.cloudflare.182682.xyz.
+Name:	cf.cloudflare.182682.xyz
+Address: 104.17.102.39
+Name:	cf.cloudflare.182682.xyz
+Address: 104.17.155.218
+Name:	cf.cloudflare.182682.xyz
+Address: 104.17.181.246
+Name:	cf.cloudflare.182682.xyz
+Address: 104.17.184.207
+Name:	cf.cloudflare.182682.xyz
+Address: 104.16.152.220
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:e4::4e16:5d81
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:4408::68ab:6962
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:440a::490a:18fc
+Name:	cf.cloudflare.182682.xyz
+Address: 2a06:98c1:56::4682:3ff2
+Name:	cf.cloudflare.182682.xyz
+Address: 2a06:98c1:310d::5651:e88
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+www.yecaoyun.com	canonical name = web-server-cdn.yecaollc.com.
+Name:	web-server-cdn.yecaollc.com
+Address: 104.21.81.225
+Name:	web-server-cdn.yecaollc.com
+Address: 172.67.165.101
+Name:	web-server-cdn.yecaollc.com
+Address: 2606:4700:3030::ac43:a565
+Name:	web-server-cdn.yecaollc.com
+Address: 2606:4700:3037::6815:51e1
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+*** Can't find yuansheng.icu: No answer
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	blog.nihaojewelry.com
+Address: 104.18.2.39
+Name:	blog.nihaojewelry.com
+Address: 104.18.3.39
+Name:	blog.nihaojewelry.com
+Address: 2606:4700::6812:327
+Name:	blog.nihaojewelry.com
+Address: 2606:4700::6812:227
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.shaalaa.com
+Address: 104.26.13.31
+Name:	www.shaalaa.com
+Address: 172.67.75.172
+Name:	www.shaalaa.com
+Address: 104.26.12.31
+Name:	www.shaalaa.com
+Address: 2606:4700:20::681a:c1f
+Name:	www.shaalaa.com
+Address: 2606:4700:20::ac43:4bac
+Name:	www.shaalaa.com
+Address: 2606:4700:20::681a:d1f
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+cdn.cf.clun.top	canonical name = cdn.cf.clun.top.
+cdn.cf.clun.top	canonical name = cdn.cf.clun.top.
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+jp03.nttkk.com	canonical name = a1.nttkk.com.
+a1.nttkk.com	canonical name = a1.zz.nttkk.com.
+a1.zz.nttkk.com	canonical name = www.oppo.com.
+www.oppo.com	canonical name = www.oppo.com.edgekey.net.
+www.oppo.com.edgekey.net	canonical name = e94411.a.akamaiedge.net.
+Name:	e94411.a.akamaiedge.net
+Address: 23.212.251.6
+Name:	e94411.a.akamaiedge.net
+Address: 23.212.251.11
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.nihaojewelry.com
+Address: 104.18.3.39
+Name:	www.nihaojewelry.com
+Address: 104.18.2.39
+Name:	www.nihaojewelry.com
+Address: 2606:4700::6812:227
+Name:	www.nihaojewelry.com
+Address: 2606:4700::6812:327
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	api.ip.sb.cdn.cloudflare.net
+Address: 172.67.75.172
+Name:	api.ip.sb.cdn.cloudflare.net
+Address: 104.26.13.31
+Name:	api.ip.sb.cdn.cloudflare.net
+Address: 104.26.12.31
+Name:	api.ip.sb.cdn.cloudflare.net
+Address: 2606:4700:20::681a:d1f
+Name:	api.ip.sb.cdn.cloudflare.net
+Address: 2606:4700:20::681a:c1f
+Name:	api.ip.sb.cdn.cloudflare.net
+Address: 2606:4700:20::ac43:4bac
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+www.wuda.cf	canonical name = www.shuhost.net.
+www.shuhost.net	canonical name = web-server-cdn.shuhost.com.
+Name:	web-server-cdn.shuhost.com
+Address: 104.21.84.123
+Name:	web-server-cdn.shuhost.com
+Address: 172.67.192.170
+Name:	web-server-cdn.shuhost.com
+Address: 2606:4700:3032::ac43:c0aa
+Name:	web-server-cdn.shuhost.com
+Address: 2606:4700:3037::6815:547b
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find cloudflare.611886.xyz: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	shaalaa.com
+Address: 172.67.75.172
+Name:	shaalaa.com
+Address: 104.26.12.31
+Name:	shaalaa.com
+Address: 104.26.13.31
+Name:	shaalaa.com
+Address: 2606:4700:20::ac43:4bac
+Name:	shaalaa.com
+Address: 2606:4700:20::681a:c1f
+Name:	shaalaa.com
+Address: 2606:4700:20::681a:d1f
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+google.ibt.pp.ua	canonical name = www.shuhost.net.
+www.shuhost.net	canonical name = web-server-cdn.shuhost.com.
+Name:	web-server-cdn.shuhost.com
+Address: 104.21.84.123
+Name:	web-server-cdn.shuhost.com
+Address: 172.67.192.170
+Name:	web-server-cdn.shuhost.com
+Address: 2606:4700:3037::6815:547b
+Name:	web-server-cdn.shuhost.com
+Address: 2606:4700:3032::ac43:c0aa
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+sj01.nttkk.com	canonical name = a1.nttkk.com.
+a1.nttkk.com	canonical name = a1.zz.nttkk.com.
+a1.zz.nttkk.com	canonical name = www.oppo.com.
+www.oppo.com	canonical name = www.oppo.com.edgekey.net.
+www.oppo.com.edgekey.net	canonical name = e94411.a.akamaiedge.net.
+Name:	e94411.a.akamaiedge.net
+Address: 23.212.251.11
+Name:	e94411.a.akamaiedge.net
+Address: 23.212.251.6
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+my.shuhost.net	canonical name = web-server-cdn.shuhost.com.
+Name:	web-server-cdn.shuhost.com
+Address: 104.21.84.123
+Name:	web-server-cdn.shuhost.com
+Address: 172.67.192.170
+Name:	web-server-cdn.shuhost.com
+Address: 2606:4700:3037::6815:547b
+Name:	web-server-cdn.shuhost.com
+Address: 2606:4700:3032::ac43:c0aa
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+www.heinu.cc	canonical name = origin.heinu.cc.
+origin.heinu.cc	canonical name = saas.heinu.cc.
+saas.heinu.cc	canonical name = cp.cloudflare.com.
+Name:	cp.cloudflare.com
+Address: 104.16.132.229
+Name:	cp.cloudflare.com
+Address: 104.16.133.229
+Name:	cp.cloudflare.com
+Address: 2606:4700::6810:85e5
+Name:	cp.cloudflare.com
+Address: 2606:4700::6810:84e5
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	cf-best.tiktokcloud.top
+Address: 172.67.75.93
+Name:	cf-best.tiktokcloud.top
+Address: 172.67.75.96
+Name:	cf-best.tiktokcloud.top
+Address: 172.67.75.94
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+cname2.164182.xyz	canonical name = us-cn2.164182.xyz.
+Name:	us-cn2.164182.xyz
+Address: 43.153.80.208
+Name:	us-cn2.164182.xyz
+Address: 43.153.103.203
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+acsg.cloudflarest.link	canonical name = sg.921219.xyz.
+Name:	sg.921219.xyz
+Address: 8.219.126.240
+Name:	sg.921219.xyz
+Address: 8.219.191.110
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	azuracast.com
+Address: 104.26.13.31
+Name:	azuracast.com
+Address: 104.26.12.31
+Name:	azuracast.com
+Address: 172.67.75.172
+Name:	azuracast.com
+Address: 2606:4700:20::ac43:4bac
+Name:	azuracast.com
+Address: 2606:4700:20::681a:d1f
+Name:	azuracast.com
+Address: 2606:4700:20::681a:c1f
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+tw04.nttkk.com	canonical name = a1.nttkk.com.
+a1.nttkk.com	canonical name = a1.zz.nttkk.com.
+a1.zz.nttkk.com	canonical name = www.oppo.com.
+www.oppo.com	canonical name = www.oppo.com.edgekey.net.
+www.oppo.com.edgekey.net	canonical name = e94411.a.akamaiedge.net.
+Name:	e94411.a.akamaiedge.net
+Address: 23.212.251.11
+Name:	e94411.a.akamaiedge.net
+Address: 23.212.251.6
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+an.clun.top	canonical name = cn.clun.top.cdn.cloudflare.net.
+Name:	cn.clun.top.cdn.cloudflare.net
+Address: 172.67.27.46
+Name:	cn.clun.top.cdn.cloudflare.net
+Address: 104.22.52.235
+Name:	cn.clun.top.cdn.cloudflare.net
+Address: 104.22.53.235
+Name:	cn.clun.top.cdn.cloudflare.net
+Address: 2606:4700:10::6816:34eb
+Name:	cn.clun.top.cdn.cloudflare.net
+Address: 2606:4700:10::ac43:1b2e
+Name:	cn.clun.top.cdn.cloudflare.net
+Address: 2606:4700:10::6816:35eb
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+ru02.nttkk.com	canonical name = a1.nttkk.com.
+a1.nttkk.com	canonical name = a1.zz.nttkk.com.
+a1.zz.nttkk.com	canonical name = www.oppo.com.
+www.oppo.com	canonical name = www.oppo.com.edgekey.net.
+www.oppo.com.edgekey.net	canonical name = e94411.a.akamaiedge.net.
+Name:	e94411.a.akamaiedge.net
+Address: 23.212.251.6
+Name:	e94411.a.akamaiedge.net
+Address: 23.212.251.11
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+acjp.cloudflarest.link	canonical name = bestproxy.onecf.eu.org.
+Name:	bestproxy.onecf.eu.org
+Address: 47.243.139.243
+Name:	bestproxy.onecf.eu.org
+Address: 8.217.193.25
+Name:	bestproxy.onecf.eu.org
+Address: 47.242.125.241
+Name:	bestproxy.onecf.eu.org
+Address: 8.210.107.246
+Name:	bestproxy.onecf.eu.org
+Address: 8.218.181.189
+Name:	bestproxy.onecf.eu.org
+Address: 47.243.5.154
+Name:	bestproxy.onecf.eu.org
+Address: 8.217.50.252
+Name:	bestproxy.onecf.eu.org
+Address: 8.218.48.92
+Name:	bestproxy.onecf.eu.org
+Address: 47.242.36.78
+Name:	bestproxy.onecf.eu.org
+Address: 8.210.207.214
+Name:	bestproxy.onecf.eu.org
+Address: 8.217.85.14
+Name:	bestproxy.onecf.eu.org
+Address: 8.210.89.245
+Name:	bestproxy.onecf.eu.org
+Address: 8.217.221.165
+Name:	bestproxy.onecf.eu.org
+Address: 8.210.175.109
+Name:	bestproxy.onecf.eu.org
+Address: 47.243.27.217
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+kr01.nttkk.com	canonical name = a1.nttkk.com.
+a1.nttkk.com	canonical name = a1.zz.nttkk.com.
+a1.zz.nttkk.com	canonical name = www.oppo.com.
+www.oppo.com	canonical name = www.oppo.com.edgekey.net.
+www.oppo.com.edgekey.net	canonical name = e94411.a.akamaiedge.net.
+Name:	e94411.a.akamaiedge.net
+Address: 23.212.251.6
+Name:	e94411.a.akamaiedge.net
+Address: 23.212.251.11
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+yh8.dtku41.xyz	canonical name = www.woxiande.com.
+www.woxiande.com	canonical name = woxiande.cloudflare.182682.xyz.
+Name:	woxiande.cloudflare.182682.xyz
+Address: 104.17.184.207
+Name:	woxiande.cloudflare.182682.xyz
+Address: 104.16.152.220
+Name:	woxiande.cloudflare.182682.xyz
+Address: 104.17.102.39
+Name:	woxiande.cloudflare.182682.xyz
+Address: 104.17.155.218
+Name:	woxiande.cloudflare.182682.xyz
+Address: 104.17.181.246
+Name:	woxiande.cloudflare.182682.xyz
+Address: 2606:4700:4408::68ab:6962
+Name:	woxiande.cloudflare.182682.xyz
+Address: 2606:4700:440a::490a:18fc
+Name:	woxiande.cloudflare.182682.xyz
+Address: 2a06:98c1:56::4682:3ff2
+Name:	woxiande.cloudflare.182682.xyz
+Address: 2a06:98c1:310d::5651:e88
+Name:	woxiande.cloudflare.182682.xyz
+Address: 2606:4700:e4::4e16:5d81
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sg.921219.xyz
+Address: 8.219.126.240
+Name:	sg.921219.xyz
+Address: 8.219.191.110
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+api.ip.sb	canonical name = api.ip.sb.cdn.cloudflare.net.
+Name:	api.ip.sb.cdn.cloudflare.net
+Address: 104.26.13.31
+Name:	api.ip.sb.cdn.cloudflare.net
+Address: 172.67.75.172
+Name:	api.ip.sb.cdn.cloudflare.net
+Address: 104.26.12.31
+Name:	api.ip.sb.cdn.cloudflare.net
+Address: 2606:4700:20::681a:d1f
+Name:	api.ip.sb.cdn.cloudflare.net
+Address: 2606:4700:20::681a:c1f
+Name:	api.ip.sb.cdn.cloudflare.net
+Address: 2606:4700:20::ac43:4bac
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+lt.clun.top	canonical name = du.clun.top.
+du.clun.top	canonical name = upload.yunzhongzhuan.com.
+upload.yunzhongzhuan.com	canonical name = download.yunzhongzhuan.com.
+Name:	download.yunzhongzhuan.com
+Address: 108.162.193.100
+Name:	download.yunzhongzhuan.com
+Address: 162.159.0.33
+Name:	download.yunzhongzhuan.com
+Address: 162.159.1.33
+Name:	download.yunzhongzhuan.com
+Address: 162.159.2.9
+Name:	download.yunzhongzhuan.com
+Address: 162.159.3.11
+Name:	download.yunzhongzhuan.com
+Address: 162.159.4.8
+Name:	download.yunzhongzhuan.com
+Address: 162.159.5.6
+Name:	download.yunzhongzhuan.com
+Address: 162.159.6.6
+Name:	download.yunzhongzhuan.com
+Address: 162.159.7.226
+Name:	download.yunzhongzhuan.com
+Address: 162.159.8.55
+Name:	download.yunzhongzhuan.com
+Address: 162.159.9.55
+Name:	download.yunzhongzhuan.com
 Address: 172.64.32.100
-Name:	sp.dsnl.link
-Address: 104.18.205.160
-Name:	sp.dsnl.link
-Address: 162.159.193.178
-Name:	sp.dsnl.link
-Address: 104.18.74.87
-Name:	sp.dsnl.link
-Address: 104.26.12.54
-Name:	sp.dsnl.link
-Address: 104.18.10.128
-Name:	sp.dsnl.link
-Address: 43.135.135.28
-Name:	sp.dsnl.link
-Address: 172.67.76.38
+Name:	download.yunzhongzhuan.com
+Address: 172.64.33.100
+Name:	download.yunzhongzhuan.com
+Address: 173.245.58.100
+Name:	download.yunzhongzhuan.com
+Address: 173.245.59.100
+Name:	download.yunzhongzhuan.com
+Address: 108.162.192.100
+** server can't find download.yunzhongzhuan.com: SERVFAIL
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-www.ins89.com	canonical name = traff-1.hugedomains.com.
-traff-1.hugedomains.com	canonical name = hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 52.71.57.184
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 54.209.32.212
+Name:	api-ipv4.ip.sb
+Address: 104.26.13.31
+Name:	api-ipv4.ip.sb
+Address: 104.26.12.31
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-www.caoliushequ1024.com	canonical name = traff-1.hugedomains.com.
-traff-1.hugedomains.com	canonical name = hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 54.209.32.212
-Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
-Address: 52.71.57.184
+yx.cloudflare88.eu.org	canonical name = yx.bfyyds.bf.
+yx.bfyyds.bf	canonical name = 4.yx.bfyyds.bf.
+4.yx.bfyyds.bf	canonical name = cdn.cloudflare.steamstatic.com.
+Name:	cdn.cloudflare.steamstatic.com
+Address: 172.64.145.151
+Name:	cdn.cloudflare.steamstatic.com
+Address: 104.18.42.105
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-www.aaaa5.com	canonical name = traff-3.hugedomains.com.
-traff-3.hugedomains.com	canonical name = hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
-Address: 3.18.7.81
-Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
-Address: 3.19.116.195
+www.ip.sb	canonical name = www.ip.sb.cdn.cloudflare.net.
+Name:	www.ip.sb.cdn.cloudflare.net
+Address: 104.26.12.31
+Name:	www.ip.sb.cdn.cloudflare.net
+Address: 104.26.13.31
+Name:	www.ip.sb.cdn.cloudflare.net
+Address: 172.67.75.172
+Name:	www.ip.sb.cdn.cloudflare.net
+Address: 2606:4700:20::ac43:4bac
+Name:	www.ip.sb.cdn.cloudflare.net
+Address: 2606:4700:20::681a:d1f
+Name:	www.ip.sb.cdn.cloudflare.net
+Address: 2606:4700:20::681a:c1f
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-www.my778.com	canonical name = traff-5.hugedomains.com.
-traff-5.hugedomains.com	canonical name = hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 34.205.242.146
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 54.161.222.85
+Name:	forexforest.net
+Address: 172.67.75.172
+Name:	forexforest.net
+Address: 104.26.13.31
+Name:	forexforest.net
+Address: 104.26.12.31
+Name:	forexforest.net
+Address: 2606:4700:20::ac43:4bac
+Name:	forexforest.net
+Address: 2606:4700:20::681a:c1f
+Name:	forexforest.net
+Address: 2606:4700:20::681a:d1f
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find cdn.freecdn.free.hr: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find cdn.611886.xyz: NXDOMAIN
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-Name:	www.kuaikan66.com
-Address: 162.210.199.87
+Name:	m.nihaojewelry.com
+Address: 104.18.3.39
+Name:	m.nihaojewelry.com
+Address: 104.18.2.39
+Name:	m.nihaojewelry.com
+Address: 2606:4700::6812:327
+Name:	m.nihaojewelry.com
+Address: 2606:4700::6812:227
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-x8x8x8.com	canonical name = traff-5.hugedomains.com.
-traff-5.hugedomains.com	canonical name = hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com.
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 34.205.242.146
-Name:	hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
-Address: 54.161.222.85
+pan.clun.top	canonical name = cn.clun.top.cdn.cloudflare.net.
+Name:	cn.clun.top.cdn.cloudflare.net
+Address: 104.22.53.235
+Name:	cn.clun.top.cdn.cloudflare.net
+Address: 172.67.27.46
+Name:	cn.clun.top.cdn.cloudflare.net
+Address: 104.22.52.235
+Name:	cn.clun.top.cdn.cloudflare.net
+Address: 2606:4700:10::6816:34eb
+Name:	cn.clun.top.cdn.cloudflare.net
+Address: 2606:4700:10::6816:35eb
+Name:	cn.clun.top.cdn.cloudflare.net
+Address: 2606:4700:10::ac43:1b2e
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-www.ytbsp.com	canonical name = traff-3.hugedomains.com.
-traff-3.hugedomains.com	canonical name = hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
-Address: 3.18.7.81
-Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
-Address: 3.19.116.195
+Name:	bcaa.ua
+Address: 172.67.75.172
+Name:	bcaa.ua
+Address: 104.26.13.31
+Name:	bcaa.ua
+Address: 104.26.12.31
+Name:	bcaa.ua
+Address: 2606:4700:20::681a:d1f
+Name:	bcaa.ua
+Address: 2606:4700:20::ac43:4bac
+Name:	bcaa.ua
+Address: 2606:4700:20::681a:c1f
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+a1.nttkk.com	canonical name = a1.zz.nttkk.com.
+a1.zz.nttkk.com	canonical name = www.oppo.com.
+www.oppo.com	canonical name = www.oppo.com.edgekey.net.
+www.oppo.com.edgekey.net	canonical name = e94411.a.akamaiedge.net.
+Name:	e94411.a.akamaiedge.net
+Address: 23.212.251.11
+Name:	e94411.a.akamaiedge.net
+Address: 23.212.251.6
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	vlisco.com
+Address: 104.26.13.31
+Name:	vlisco.com
+Address: 172.67.75.172
+Name:	vlisco.com
+Address: 104.26.12.31
+Name:	vlisco.com
+Address: 2606:4700:20::681a:d1f
+Name:	vlisco.com
+Address: 2606:4700:20::ac43:4bac
+Name:	vlisco.com
+Address: 2606:4700:20::681a:c1f
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find cdn.119611.xyz: NXDOMAIN
 
